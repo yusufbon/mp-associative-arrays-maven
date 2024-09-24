@@ -24,7 +24,8 @@ bin
 # Maven target directory
 target
 
-# The tests directory, which we are going to pull from a separate repo
+# The subdirectories, which we are going to pull from separate repos
+aaLibrary
 aaTests
 
 # Temporary files
