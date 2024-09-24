@@ -1,8 +1,14 @@
-Associative Arrays
-==================
+Associative Arrays (wrapper project)
+====================================
 
-Starter code for a project on associative arrays.
+Wrapper code for a CSC-207 project on associative arrays. This Maven
+project pulls together the library code (`aaLibrary`) and the test
+code (`aaTest`), which should be in separate Git repositories.
 
-_Students must replace the contents of this file with appropriate
-contents, including author and date._
+Students should not modify code in this project, only in the subprojects.
 
+---
+
+* Author: Samuel A. Rebelsky  
+* Version: 1.0alpha
+* Date: 2024-09-24
