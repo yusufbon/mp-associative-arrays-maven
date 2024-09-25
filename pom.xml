@@ -7,11 +7,6 @@
   <groupId>edu.grinnell.csc207</groupId>
   <artifactId>associative-arrays</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>pom</packaging>
-  <modules>
-    <module>aaLibrary</module>
-    <module>aaTests</module>
-  </modules>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -48,7 +43,7 @@
           <artifactId>exec-maven-plugin</artifactId>
           <version>3.3.0</version>
           <configuration>
-            <mainClass>edu.grinnell.csc207.Sample</mainClass>
+            <mainClass>edu.grinnell.csc207.experiments.AAExperiments</mainClass>
           </configuration>
         </plugin>
 
@@ -68,7 +63,7 @@
             <archive>
               <manifest>
                 <addClasspath>true</addClasspath>
-                <mainClass>edu.grinnell.csc207.Sample</mainClass>
+                <mainClass>edu.grinnell.csc207.experiments.AAExperiments</mainClass>
               </manifest>
             </archive>
           </configuration>
