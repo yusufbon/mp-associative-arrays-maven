@@ -3,7 +3,9 @@ Associative Arrays
 
 Starter code for a CSC-207 project on associative arrays.
 
-_Students must replace the contents of this file with appropriate
-contents, including class, author, date, and URL._
 
-Bonsen Yusuf
+Author: Bonsen Yusuf and Sam Rebelsky (starter code)
+Code can be found at https:https://github.com/yusufbon/mp-associative-arrays-maven
+
+Purpose:
+In this project I write tests for Associative Arrays, as well as implementing associative arrays.
